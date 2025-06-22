@@ -1,1 +1,1 @@
-# modeling-social-behavior
+# Modeling Social Behavior
